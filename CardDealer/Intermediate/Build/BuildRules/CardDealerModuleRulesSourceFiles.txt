@@ -1,3 +1,0 @@
-C:\Users\Alumno\Downloads\CasinoRoyale\CardDealer\Source\CardDealer\CardDealer.Build.cs
-C:\Users\Alumno\Downloads\CasinoRoyale\CardDealer\Source\CardDealer.Target.cs
-C:\Users\Alumno\Downloads\CasinoRoyale\CardDealer\Source\CardDealerEditor.Target.cs
