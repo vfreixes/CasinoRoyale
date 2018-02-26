@@ -1,0 +1,1676 @@
+﻿Log file open, 02/25/18 12:59:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SideScroller
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-339357006) SRandInit(-339357006).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.178597
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: F:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.25-11.59.35:247][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.25-11.59.35:247][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.25-11.59.35:324][  0]LogInit: Computer: KAYRANIS
+[2018.02.25-11.59.35:324][  0]LogInit: User: Marc
+[2018.02.25-11.59.35:324][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.25-11.59.35:324][  0]LogInit: High frequency timer resolution =3.320324 MHz
+[2018.02.25-11.59.35:336][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.25-11.59.35:336][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.25-11.59.35:336][  0]LogMemory: Process Physical Memory: 274.27 MB used, 274.27 MB peak
+[2018.02.25-11.59.35:336][  0]LogMemory: Process Virtual Memory: 273.80 MB used, 273.80 MB peak
+[2018.02.25-11.59.35:336][  0]LogMemory: Physical Memory: 3656.32 MB used,  12671.61 MB free, 16327.94 MB total
+[2018.02.25-11.59.35:336][  0]LogMemory: Virtual Memory: 667.61 MB used,  12671.61 MB free, 134217728.00 MB total
+[2018.02.25-11.59.36:215][  0]LogInit: Overriding language with editor culture configuration option (en).
+[2018.02.25-11.59.36:215][  0]LogInit: Overriding locale with editor culture configuration option (en).
+[2018.02.25-11.59.37:482][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.25-11.59.42:677][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.25-11.59.42:721][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2018.02.25-11.59.42:721][  0]LogD3D11RHI:       2007/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.25-11.59.42:724][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.25-11.59.42:725][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.25-11.59.42:725][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.25-11.59.42:730][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.25-11.59.42:730][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.25-11.59.42:730][  0]LogWindows: EnumDisplayDevices:
+[2018.02.25-11.59.42:730][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2018.02.25-11.59.42:730][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:1)
+[2018.02.25-11.59.42:730][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.02.25-11.59.42:730][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.02.25-11.59.42:730][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.25-11.59.42:730][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2018.02.25-11.59.42:730][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.25-11.59.42:730][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.25-11.59.42:730][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2018.02.25-11.59.42:787][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.25-11.59.43:156][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.25-11.59.43:304][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Intermediate/Shaders/WorkingDirectory/4320/).
+[2018.02.25-11.59.43:304][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Marc/AppData/Local/Temp/UnrealShaderWorkingDir/76C0FB784ABFB0EE062B8A83BE174FE2/'.
+[2018.02.25-11.59.43:308][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.25-11.59.46:312][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.25-11.59.46:360][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.25-11.59.46:407][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.25-11.59.46:454][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.25-11.59.46:545][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.25-11.59.46:592][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.25-11.59.46:638][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.25-11.59.46:685][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.25-11.59.46:727][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.25-11.59.46:773][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.25-11.59.46:819][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.25-11.59.46:876][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.25-11.59.46:922][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.25-11.59.46:968][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.25-11.59.47:091][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.25-11.59.47:091][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.25-11.59.47:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.25-11.59.47:190][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.25-11.59.47:386][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.25-11.59.47:408][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.25-11.59.47:455][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.25-11.59.47:501][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.25-11.59.47:562][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.25-11.59.47:647][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.25-11.59.47:647][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.25-11.59.49:016][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.25-11.59.49:393][  0]LogDerivedDataCache: Loaded boot cache 0.38s 72MB C:/Users/Marc/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.25-11.59.49:393][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Marc/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.25-11.59.49:393][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Marc/Documents/CasinoRoyale/SideScroller/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.25-11.59.49:393][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.25-11.59.49:393][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Marc/Documents/CasinoRoyale/SideScroller/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.25-11.59.49:393][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.25-11.59.49:457][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.25-11.59.49:471][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Marc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.25-11.59.49:535][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.25-11.59.49:631][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.25-11.59.49:720][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.25-11.59.49:740][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.25-11.59.56:634][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.25-11.59.58:828][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.25-11.59.58:867][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.25-11.59.58:868][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.25-11.59.58:868][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.25-11.59.58:868][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.25-11.59.58:868][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.25-11.59.59:466][  0]LogNetVersion: SideScroller , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 123061163)
+[2018.02.25-12.00.01:279][  0]LogAssetRegistry: FAssetRegistry took 0.0405 seconds to start up
+[2018.02.25-12.00.21:789][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.182369 seconds
+[2018.02.25-12.00.21:817][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.25-12.00.21:817][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.25-12.00.21:817][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.25-12.00.21:911][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.25-12.01.00:009][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.25-12.01.00:094][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.25-12.01.02:026][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.25-12.01.02:750][  0]SourceControl: Source control is disabled
+[2018.02.25-12.01.02:774][  0]SourceControl: Source control is disabled
+[2018.02.25-12.01.02:909][  0]SourceControl: Source control is disabled
+[2018.02.25-12.01.03:068][  0]SourceControl: Source control is disabled
+[2018.02.25-12.01.04:943][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.25-12.01.05:421][  0]LogOcInput: OculusInput pre-init called
+[2018.02.25-12.01.06:438][  0]LogEngine: Initializing Engine...
+[2018.02.25-12.01.06:542][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.25-12.01.06:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.25-12.01.06:919][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.25-12.01.07:312][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.25-12.01.07:452][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.01.07:481][  0]LogInit: FAudioDevice initialized.
+[2018.02.25-12.01.07:560][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Marc/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.25-12.01.07:567][  0]LogInit: Texture streaming: Enabled
+[2018.02.25-12.01.07:747][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.25-12.01.08:729][  0]LogInit: Transaction tracking system initialized
+[2018.02.25-12.01.12:410][  0]BlueprintLog: New page: Editor Load
+[2018.02.25-12.01.21:036][  0]LocalizationService: Localization service is disabled
+[2018.02.25-12.01.26:249][  0]LogConsoleResponse: Display: 
+[2018.02.25-12.01.29:612][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/' took 0.02s
+[2018.02.25-12.01.29:612][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.25-12.01.29:612][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.25-12.01.29:639][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.25-12.01.39:189][  0]SourceControl: Source control is disabled
+[2018.02.25-12.01.39:382][  0]Cmd: MAP LOAD FILE="C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.25-12.01.39:383][  0]LightingResults: New page: Lighting Build
+[2018.02.25-12.01.39:862][  0]MapCheck: New page: Map Check
+[2018.02.25-12.01.39:863][  0]LightingResults: New page: Lighting Build
+[2018.02.25-12.01.55:365][  0]LogTexture: Display: Building textures: 9_Spades (AutoDXT, 4096X4096)
+[2018.02.25-12.01.55:365][  0]LogTexture: Display: Building textures: 8_Spades (AutoDXT, 4096X4096)
+[2018.02.25-12.01.55:365][  0]LogTexture: Display: Building textures: 8_Hearts (AutoDXT, 4096X4096)
+[2018.02.25-12.01.55:365][  0]LogTexture: Display: Building textures: 7_Hearts (AutoDXT, 4096X4096)
+[2018.02.25-12.01.55:365][  0]LogTexture: Display: Building textures: 7_Spades (AutoDXT, 4096X4096)
+[2018.02.25-12.01.55:365][  0]LogTexture: Display: Building textures: 9_Hearts (AutoDXT, 4096X4096)
+[2018.02.25-12.01.55:375][  0]LogMaterial: Missing cached shader map for material 9_Spades_Mat, compiling. 
+[2018.02.25-12.01.57:672][  0]LogTexture: Display: Building textures: 6_Spades (AutoDXT, 4096X4096)
+[2018.02.25-12.01.57:672][  0]LogTexture: Display: Building textures: 6_Hearts (AutoDXT, 4096X4096)
+[2018.02.25-12.01.57:672][  0]LogTexture: Display: Building textures: 5_Spades (AutoDXT, 4096X4096)
+[2018.02.25-12.01.57:672][  0]LogTexture: Display: Building textures: 5_Hearts (AutoDXT, 4096X4096)
+[2018.02.25-12.01.57:677][  0]LogMaterial: Missing cached shader map for material 9_Hearts_Mat, compiling. 
+[2018.02.25-12.01.57:719][  0]LogMaterial: Missing cached shader map for material 8_Spades_Mat, compiling. 
+[2018.02.25-12.01.57:758][  0]LogMaterial: Missing cached shader map for material 8_Hearts_Mat, compiling. 
+[2018.02.25-12.01.57:790][  0]LogMaterial: Missing cached shader map for material 7_Spades_Mat, compiling. 
+[2018.02.25-12.01.57:825][  0]LogMaterial: Missing cached shader map for material 7_Hearts_Mat, compiling. 
+[2018.02.25-12.02.06:982][  0]LogTexture: Display: Building textures: 4_Spades (AutoDXT, 4096X4096)
+[2018.02.25-12.02.06:982][  0]LogTexture: Display: Building textures: 4_Hearts (AutoDXT, 4096X4096)
+[2018.02.25-12.02.06:996][  0]LogMaterial: Missing cached shader map for material 6_Spades_Mat, compiling. 
+[2018.02.25-12.02.07:403][  0]LogMaterial: Missing cached shader map for material 6_Hearts_Mat, compiling. 
+[2018.02.25-12.02.07:984][  0]LogTexture: Display: Building textures: 3_Spades (AutoDXT, 4096X4096)
+[2018.02.25-12.02.07:984][  0]LogMaterial: Missing cached shader map for material 5_Spades_Mat, compiling. 
+[2018.02.25-12.02.08:025][  0]LogTexture: Display: Building textures: 3_Hearts (AutoDXT, 4096X4096)
+[2018.02.25-12.02.08:025][  0]LogMaterial: Missing cached shader map for material 5_Hearts_Mat, compiling. 
+[2018.02.25-12.02.08:068][  0]LogMaterial: Missing cached shader map for material 4_Spades_Mat, compiling. 
+[2018.02.25-12.02.09:287][  0]LogTexture: Display: Building textures: 2_Spades (AutoDXT, 4096X4096)
+[2018.02.25-12.02.09:287][  0]LogTexture: Display: Building textures: 2_Hearts (AutoDXT, 4096X4096)
+[2018.02.25-12.02.09:298][  0]LogMaterial: Missing cached shader map for material 4_Hearts_Mat, compiling. 
+[2018.02.25-12.02.18:130][  0]LogTexture: Display: Building textures: CameraIcon (AutoDXT, 400X400)
+[2018.02.25-12.02.18:130][  0]LogTexture: Display: Building textures: 10_Spades (AutoDXT, 4096X4096)
+[2018.02.25-12.02.18:130][  0]LogTexture: Display: Building textures: A_Spades (AutoDXT, 2000X3232)
+[2018.02.25-12.02.18:131][  0]LogTexture: Display: Building textures: A_Hearts (AutoDXT, 2008X3240)
+[2018.02.25-12.02.18:131][  0]LogTexture: Display: Building textures: A_Diamonds (AutoDXT, 2008X3256)
+[2018.02.25-12.02.18:131][  0]LogTexture: Display: Building textures: A_Clubs (AutoDXT, 2008X3248)
+[2018.02.25-12.02.18:131][  0]LogTexture: Display: Building textures: 10_Hearts (AutoDXT, 4096X4096)
+[2018.02.25-12.02.18:157][  0]LogMaterial: Missing cached shader map for material 3_Spades_Mat, compiling. 
+[2018.02.25-12.02.18:693][  0]LogTexture: Display: Building textures: blue (BGRA8, 600X563)
+[2018.02.25-12.02.18:693][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.02.25-12.02.18:693][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.02.25-12.02.18:693][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.02.25-12.02.18:694][  0]LogMaterial: Missing cached shader map for material 3_Hearts_Mat, compiling. 
+[2018.02.25-12.02.18:730][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.02.25-12.02.18:730][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2018.02.25-12.02.18:730][  0]LogMaterial: Missing cached shader map for material 2_Spades_Mat, compiling. 
+[2018.02.25-12.02.18:841][  0]LogMaterial: Missing cached shader map for material 2_Hearts_Mat, compiling. 
+[2018.02.25-12.02.19:796][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.02.25-12.02.19:796][  0]LogTexture: Display: Building textures: yellow (BGRA8, 700X563)
+[2018.02.25-12.02.19:796][  0]LogTexture: Display: Building textures: green (BGRA8, 600X563)
+[2018.02.25-12.02.19:796][  0]LogTexture: Display: Building textures: Taula_DefaultMaterial_BaseColor (AutoDXT, 2048X2048)
+[2018.02.25-12.02.19:812][  0]LogMaterial: Missing cached shader map for material 10_Spades_Mat, compiling. 
+[2018.02.25-12.02.21:838][  0]LogMaterial: Missing cached shader map for material 10_Hearts_Mat, compiling. 
+[2018.02.25-12.02.21:890][  0]LogStaticMesh: Building static mesh Card...
+[2018.02.25-12.02.21:927][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Cards/Card.Card
+[2018.02.25-12.02.21:942][  0]LogMaterial: Missing cached shader map for material Material__28, compiling. 
+[2018.02.25-12.02.22:087][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MainCharacter/Character_Walk_Anim.Character_Walk_Anim
+[2018.02.25-12.02.22:092][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MainCharacter/Character_Walk_Anim.Character_Walk_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.25-12.02.22:096][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MainCharacter/Character_Run_Anim.Character_Run_Anim
+[2018.02.25-12.02.22:096][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MainCharacter/Character_Run_Anim.Character_Run_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.25-12.02.22:097][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MainCharacter/Character_Idle_Anim.Character_Idle_Anim
+[2018.02.25-12.02.22:097][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MainCharacter/Character_Idle_Anim.Character_Idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.25-12.02.22:322][  0]LogStaticMesh: Building static mesh Taula...
+[2018.02.25-12.02.22:333][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Level_1/Taula/Taula.Taula
+[2018.02.25-12.02.22:337][  0]LogStaticMesh: Building static mesh Escala_NoBarana...
+[2018.02.25-12.02.22:341][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Level_1/Escales/Escala_NoBarana.Escala_NoBarana
+[2018.02.25-12.02.22:343][  0]LogStaticMesh: Building static mesh Columna...
+[2018.02.25-12.02.22:348][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Level_1/Columna/Columna.Columna
+[2018.02.25-12.02.22:462][  0]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2018.02.25-12.02.22:633][  0]LogMaterial: Missing cached shader map for material M_radial_ramp, compiling. 
+[2018.02.25-12.02.22:702][  0]LogMaterial: Missing cached shader map for material m_flare_01, compiling. 
+[2018.02.25-12.02.22:747][  0]LogMaterial: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2018.02.25-12.02.22:788][  0]LogMaterial: Missing cached shader map for material M_Burst, compiling. 
+[2018.02.25-12.02.22:872][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.02.25-12.02.23:093][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.02.25-12.02.23:436][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonAttack.ThirdPersonAttack
+[2018.02.25-12.02.23:436][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonAttack.ThirdPersonAttack) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.25-12.02.23:517][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.02.25-12.02.23:594][  0]LogMaterial: Missing cached shader map for material green_Mat, compiling. 
+[2018.02.25-12.02.23:628][  0]LogMaterial: Missing cached shader map for material blue_Mat, compiling. 
+[2018.02.25-12.02.23:673][  0]LogMaterial: Missing cached shader map for material yellow_Mat, compiling. 
+[2018.02.25-12.02.23:707][  0]LogMaterial: Missing cached shader map for material Taula_DefaultMaterial_BaseColor_Mat, compiling. 
+[2018.02.25-12.02.23:769][  0]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.02.24:499][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.25-12.02.24:723][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.25-12.02.24:888][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 165.307ms to complete.
+[2018.02.25-12.02.24:888][  0]LogFileHelpers: Loading map 'Level' took 45.617
+[2018.02.25-12.02.26:994][  0]LogCollectionManager: Loaded 0 collections in 0.002299 seconds
+[2018.02.25-12.02.27:270][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Collections/' took 0.01s
+[2018.02.25-12.02.27:270][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Developers/Marc/Collections/' took 0.01s
+[2018.02.25-12.02.27:270][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Collections/' took 0.01s
+[2018.02.25-12.02.27:270][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.25-12.02.27:306][  0]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2363 classes and 519 folders.
+[2018.02.25-12.02.27:500][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.25-12.02.28:563][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.25-12.02.28:725][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.25-12.02.29:410][  0]LogSlate: Took 0.019966 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.25-12.02.29:462][  0]LogSlate: Took 0.024131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.25-12.02.29:528][  0]LogSlate: Took 0.015932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.25-12.02.30:047][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.25-12.02.30:837][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.25-12.02.30:837][  0]LogLoad: (Engine Initialization) Total time: 198.64 seconds
+[2018.02.25-12.02.30:837][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.25-12.02.30:837][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.25-12.02.30:837][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.25-12.02.30:911][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.25-12.02.31:132][  0]LogSlate: Took 0.019096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.25-12.02.31:339][  3]LogAssetRegistry: Asset discovery search completed in 150.0828 seconds
+[2018.02.25-12.02.31:342][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.25-12.02.31:343][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000091 seconds (updated 0 objects)
+[2018.02.25-12.04.52:790][246]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject26)
+[2018.02.25-12.04.59:934][901]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject25)
+[2018.02.25-12.05.01:071][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject24)
+[2018.02.25-12.05.01:879][112]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject23)
+[2018.02.25-12.05.02:600][194]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject21)
+[2018.02.25-12.05.03:140][255]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject22)
+[2018.02.25-12.05.03:789][329]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject20)
+[2018.02.25-12.05.04:245][379]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject19)
+[2018.02.25-12.05.04:871][450]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject18)
+[2018.02.25-12.05.05:372][506]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject17)
+[2018.02.25-12.05.05:911][567]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject16)
+[2018.02.25-12.05.06:355][616]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject15)
+[2018.02.25-12.05.07:144][707]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject14)
+[2018.02.25-12.05.07:575][754]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject13)
+[2018.02.25-12.05.08:082][811]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject12)
+[2018.02.25-12.05.08:537][862]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject11)
+[2018.02.25-12.05.10:779][ 91]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.05.11:494][160]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject9)
+[2018.02.25-12.05.12:684][299]Cmd: DELETE
+[2018.02.25-12.05.12:684][299]Cmd: ACTOR DELETE
+[2018.02.25-12.05.12:841][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:866][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:866][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:866][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:866][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:866][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:867][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:867][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:867][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:867][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:867][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:867][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:868][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:868][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:868][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:868][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:868][299]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.05.12:879][299]LogEditorActor: Deleted 17 Actors (0.115 secs)
+[2018.02.25-12.05.18:739][973]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject26)
+[2018.02.25-12.06.08:957][619]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject7)
+[2018.02.25-12.06.26:093][516]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject26)
+[2018.02.25-12.06.30:310][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.25-12.06.59:315][ 19]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject7)
+[2018.02.25-12.07.11:457][353]LogEditorViewport: Clicking on Actor (LMB): AI_Distance_Enemy_C (AI_Distance_Enemy)
+[2018.02.25-12.07.39:780][251]Cmd: TRANSACTION UNDO
+[2018.02.25-12.07.39:780][251]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.07.39:802][251]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.25-12.07.40:287][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.25-12.08.02:487][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar1)
+[2018.02.25-12.08.23:416][  8]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject8)
+[2018.02.25-12.08.28:495][527]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject45)
+[2018.02.25-12.08.39:676][773]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject7)
+[2018.02.25-12.08.40:608][860]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject26)
+[2018.02.25-12.08.41:569][971]LogEditorViewport: Clicking on Actor (CTRL LMB): AI_Distance_Enemy_C (AI_Distance_Enemy)
+[2018.02.25-12.09.26:323][391]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.25-12.09.26:724][391]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Jackbox.FBX)
+[2018.02.25-12.09.27:014][391]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.25-12.09.27:014][391]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.25-12.09.27:014][391]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.25-12.09.27:014][391]LogFbx: ItemName: Model, ItemCount : 1
+[2018.02.25-12.09.27:014][391]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.02.25-12.09.27:038][391]LogFbx: Loading FBX Scene from G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Jackbox.FBX
+[2018.02.25-12.09.27:081][391]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.25-12.09.29:647][391]LogFbx: Loading FBX Scene from G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Jackbox.FBX
+[2018.02.25-12.09.29:653][391]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.25-12.09.29:673][391]LogFbx: Warning: Triangulating static mesh Jackbox
+[2018.02.25-12.09.29:679][391]LogStaticMesh: Building static mesh Jackbox...
+[2018.02.25-12.09.29:684][391]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Level_1/Jackbox/Jackbox.Jackbox
+[2018.02.25-12.09.29:684][391]LogStaticMesh: Warning: Jackbox has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.02.25-12.09.29:685][391]LogStaticMesh: Warning: Jackbox has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.02.25-12.09.29:708][391]FBXImport: Warning: Jackbox has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.02.25-12.09.29:709][391]FBXImport: Warning: Jackbox has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.02.25-12.10.12:670][ 32]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Ceiling_Lamp.FBX)
+[2018.02.25-12.10.12:677][ 32]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.25-12.10.12:677][ 32]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.25-12.10.12:677][ 32]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.25-12.10.12:677][ 32]LogFbx: ItemName: Model, ItemCount : 3
+[2018.02.25-12.10.12:677][ 32]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.02.25-12.10.12:681][ 32]LogFbx: Loading FBX Scene from G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Ceiling_Lamp.FBX
+[2018.02.25-12.10.12:688][ 32]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.25-12.10.14:355][ 32]LogFbx: Loading FBX Scene from G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Ceiling_Lamp.FBX
+[2018.02.25-12.10.14:361][ 32]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.25-12.10.14:362][ 32]LogFbx: Warning: Triangulating static mesh Ceiling_Lamp_Base
+[2018.02.25-12.10.14:364][ 32]LogStaticMesh: Building static mesh Ceiling_Lamp_Ceiling_Lamp_Base...
+[2018.02.25-12.10.14:367][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Base.Ceiling_Lamp_Ceiling_Lamp_Base
+[2018.02.25-12.10.14:375][ 32]LogFbx: Warning: Triangulating static mesh Ceiling_Lamp_Spider01
+[2018.02.25-12.10.14:381][ 32]LogStaticMesh: Building static mesh Ceiling_Lamp_Ceiling_Lamp_Spider01...
+[2018.02.25-12.10.14:386][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Spider01.Ceiling_Lamp_Ceiling_Lamp_Spider01
+[2018.02.25-12.10.14:393][ 32]LogFbx: Warning: Triangulating static mesh Ceiling_Lamp_Spider02
+[2018.02.25-12.10.14:398][ 32]LogStaticMesh: Building static mesh Ceiling_Lamp_Ceiling_Lamp_Spider02...
+[2018.02.25-12.10.14:403][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Spider02.Ceiling_Lamp_Ceiling_Lamp_Spider02
+[2018.02.25-12.10.20:361][316]LogSavePackage: Save=39.80ms
+[2018.02.25-12.10.20:361][316]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Ceiling_Lamp_Ceiling_Lamp_Base023D64DB448AAAFC634A9C9FB7F3DFF9.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Base.uasset'
+[2018.02.25-12.10.20:377][316]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Base.uasset
+[2018.02.25-12.10.20:423][316]LogSavePackage: Save=9.78ms
+[2018.02.25-12.10.20:423][316]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Ceiling_Lamp_Ceiling_Lamp_SpiderBA2C671C4EB472D1C29E1993093BD7E5.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Spider01.uasset'
+[2018.02.25-12.10.20:427][316]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Spider01.uasset
+[2018.02.25-12.10.20:478][316]LogSavePackage: Save=10.10ms
+[2018.02.25-12.10.20:478][316]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Ceiling_Lamp_Ceiling_Lamp_Spider382F9D0B4FD0E9F6EFA996B27FDB66A5.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Spider02.uasset'
+[2018.02.25-12.10.20:481][316]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Spider02.uasset
+[2018.02.25-12.10.20:517][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Level_1/Jackbox/Jackbox" FILE="C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Jackbox/Jackbox.uasset" SILENT=true
+[2018.02.25-12.10.20:528][316]LogSavePackage: Save=10.13ms
+[2018.02.25-12.10.20:528][316]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Jackbox41D513984023FDCC3DBEEFA0EDD52658.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Jackbox/Jackbox.uasset'
+[2018.02.25-12.10.20:532][316]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Jackbox/Jackbox.uasset
+[2018.02.25-12.10.20:640][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.25-12.10.21:180][316]LogSavePackage: Save=509.76ms
+[2018.02.25-12.10.21:180][316]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/LevelA7DA7A8E4660662D7DF72B805B0C502E.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap'
+[2018.02.25-12.10.21:184][316]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap
+[2018.02.25-12.10.21:223][316]LogFileHelpers: Saving map 'Level' took 0.685
+[2018.02.25-12.10.31:226][449]LogActorFactory: Actor Factory created Jackbox
+[2018.02.25-12.10.33:420][693]LogActorFactory: Actor Factory created Jackbox
+[2018.02.25-12.10.36:182][993]LogActorFactory: Actor Factory created Jackbox
+[2018.02.25-12.10.59:615][393]LogSlate: Took 0.601882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.25-12.11.05:077][ 19]Cmd: TRANSACTION UNDO
+[2018.02.25-12.11.05:077][ 19]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.11.20:483][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jackbox)
+[2018.02.25-12.11.57:849][ 50]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox)
+[2018.02.25-12.12.03:714][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jackbox)
+[2018.02.25-12.12.08:767][215]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox2)
+[2018.02.25-12.12.43:228][994]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox)
+[2018.02.25-12.12.43:658][ 35]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox3)
+[2018.02.25-12.12.44:100][ 82]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox5)
+[2018.02.25-12.12.45:172][204]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox6)
+[2018.02.25-12.12.45:953][292]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox4)
+[2018.02.25-12.12.46:911][400]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox2)
+[2018.02.25-12.13.14:464][419]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.02.25-12.13.16:154][512]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.02.25-12.13.32:799][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jackbox)
+[2018.02.25-12.13.37:094][808]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox2)
+[2018.02.25-12.13.38:411][956]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox4)
+[2018.02.25-12.13.39:773][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jackbox3)
+[2018.02.25-12.13.41:388][297]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox4)
+[2018.02.25-12.13.42:198][387]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox2)
+[2018.02.25-12.13.42:773][449]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox)
+[2018.02.25-12.13.43:408][518]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox5)
+[2018.02.25-12.13.44:786][676]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox6)
+[2018.02.25-12.13.46:369][855]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox7)
+[2018.02.25-12.13.47:364][968]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Jackbox8)
+[2018.02.25-12.13.48:355][ 80]Cmd: DELETE
+[2018.02.25-12.13.48:355][ 80]Cmd: ACTOR DELETE
+[2018.02.25-12.13.48:361][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.25-12.13.48:361][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.25-12.13.48:362][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.25-12.13.48:362][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.25-12.13.48:362][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.25-12.13.48:362][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.25-12.13.48:362][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.25-12.13.48:362][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.25-12.13.48:371][ 80]LogEditorActor: Deleted 8 Actors (0.016 secs)
+[2018.02.25-12.13.49:377][200]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject7)
+[2018.02.25-12.14.07:958][256]LogActorFactory: Actor Factory created Jackbox
+[2018.02.25-12.14.53:336][493]Cmd: TRANSACTION UNDO
+[2018.02.25-12.14.53:336][493]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.15.36:396][294]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.25-12.15.37:637][294]LogRenderer: Reallocating scene render targets to support 1320x836 Format 10 NumSamples 1 (Frame:1).
+[2018.02.25-12.16.26:575][513]Cmd: TRANSACTION UNDO
+[2018.02.25-12.16.26:575][513]LogEditorTransaction: Undo Modify Component(s)
+[2018.02.25-12.16.36:821][713]Cmd: TRANSACTION UNDO
+[2018.02.25-12.16.36:821][713]LogEditorTransaction: Undo Modify Component(s)
+[2018.02.25-12.17.38:919][927]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.25-12.17.40:079][987]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject9)
+[2018.02.25-12.17.43:437][369]Cmd: TRANSACTION UNDO
+[2018.02.25-12.17.43:437][369]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.18.05:197][803]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject26)
+[2018.02.25-12.18.56:270][628]Cmd: TRANSACTION UNDO
+[2018.02.25-12.18.56:270][628]LogEditorTransaction: Undo Delete selection
+[2018.02.25-12.18.57:480][767]Cmd: TRANSACTION UNDO
+[2018.02.25-12.18.57:480][767]LogEditorTransaction: Undo Rename Folder
+[2018.02.25-12.18.58:175][849]Cmd: TRANSACTION UNDO
+[2018.02.25-12.18.58:175][849]LogEditorTransaction: Undo Create Folder
+[2018.02.25-12.19.56:398][750]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject7)
+[2018.02.25-12.20.15:195][998]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.20.18:314][362]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject9)
+[2018.02.25-12.21.14:245][865]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject9)
+[2018.02.25-12.21.45:466][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.25-12.21.46:496][463]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject12)
+[2018.02.25-12.21.49:052][729]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject11)
+[2018.02.25-12.23.16:237][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Autosaves/Game/Scenes/Level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.25-12.23.16:712][212]LogSavePackage: Save=453.89ms
+[2018.02.25-12.23.16:712][212]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Level_Auto19025218D4A572C094A4493A87D65F8B9.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Autosaves/Game/Scenes/Level_Auto1.umap'
+[2018.02.25-12.23.16:715][212]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Autosaves/Game/Scenes/Level_Auto1.umap
+[2018.02.25-12.23.16:717][212]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Level' took 1.112
+[2018.02.25-12.23.16:717][212]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.112
+[2018.02.25-12.25.44:999][264]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Ceiling_Lamp.FBX)
+[2018.02.25-12.25.45:004][264]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.25-12.25.45:004][264]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.25-12.25.45:004][264]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.25-12.25.45:004][264]LogFbx: ItemName: Model, ItemCount : 4
+[2018.02.25-12.25.45:004][264]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.02.25-12.25.45:004][264]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.02.25-12.25.45:008][264]LogFbx: Loading FBX Scene from G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Ceiling_Lamp.FBX
+[2018.02.25-12.25.45:015][264]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.25-12.25.46:080][264]LogFbx: Loading FBX Scene from G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Ceiling_Lamp.FBX
+[2018.02.25-12.25.46:088][264]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.25-12.25.46:088][264]LogFbx: Warning: Triangulating static mesh Ceiling_Lamp_Base
+[2018.02.25-12.25.46:090][264]LogStaticMesh: Building static mesh Ceiling_Lamp_Ceiling_Lamp_Base...
+[2018.02.25-12.25.46:093][264]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Base.Ceiling_Lamp_Ceiling_Lamp_Base
+[2018.02.25-12.25.46:098][264]LogFbx: Warning: Triangulating static mesh Ceiling_Lamp_Spider01
+[2018.02.25-12.25.46:103][264]LogStaticMesh: Building static mesh Ceiling_Lamp_Ceiling_Lamp_Spider01...
+[2018.02.25-12.25.46:108][264]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Spider01.Ceiling_Lamp_Ceiling_Lamp_Spider01
+[2018.02.25-12.25.46:114][264]LogFbx: Warning: Triangulating static mesh Ceiling_Lamp_Spider02
+[2018.02.25-12.25.46:120][264]LogStaticMesh: Building static mesh Ceiling_Lamp_Ceiling_Lamp_Spider02...
+[2018.02.25-12.25.46:127][264]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp_Ceiling_Lamp_Spider02.Ceiling_Lamp_Ceiling_Lamp_Spider02
+[2018.02.25-12.26.43:137][454]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Ceiling_Lamp.FBX)
+[2018.02.25-12.26.43:141][454]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.25-12.26.43:141][454]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.25-12.26.43:141][454]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.25-12.26.43:141][454]LogFbx: ItemName: Model, ItemCount : 1
+[2018.02.25-12.26.43:141][454]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.02.25-12.26.43:146][454]LogFbx: Loading FBX Scene from G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Ceiling_Lamp.FBX
+[2018.02.25-12.26.43:151][454]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.25-12.26.44:105][454]LogFbx: Loading FBX Scene from G:\ENTI_4rt\TFG\Art\Escenari 01\Models\Exports\Ceiling_Lamp.FBX
+[2018.02.25-12.26.44:111][454]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.25-12.26.44:111][454]LogFbx: Warning: Triangulating static mesh Ceiling_Lamp_Base
+[2018.02.25-12.26.44:120][454]LogStaticMesh: Building static mesh Ceiling_Lamp...
+[2018.02.25-12.26.44:131][454]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp.Ceiling_Lamp
+[2018.02.25-12.26.49:066][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp" FILE="C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp.uasset" SILENT=true
+[2018.02.25-12.26.49:078][920]LogSavePackage: Save=10.40ms
+[2018.02.25-12.26.49:078][920]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Ceiling_Lamp2FBE001541BB9026E04DE4A3BFA7CE01.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp.uasset'
+[2018.02.25-12.26.49:082][920]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Assets/Level_1/Ceiling_Lamp/Ceiling_Lamp.uasset
+[2018.02.25-12.26.49:183][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.25-12.26.49:657][920]LogSavePackage: Save=452.27ms
+[2018.02.25-12.26.49:657][920]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Level17782C1246557F0904B078853D87B410.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap'
+[2018.02.25-12.26.49:661][920]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap
+[2018.02.25-12.26.49:694][920]LogFileHelpers: Saving map 'Level' took 0.610
+[2018.02.25-12.28.44:096][440]Cmd: DELETE
+[2018.02.25-12.28.44:096][440]Cmd: ACTOR DELETE
+[2018.02.25-12.28.44:116][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:116][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:116][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:117][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:117][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:117][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:117][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:117][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:117][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:118][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:118][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:118][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:118][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:118][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:119][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:119][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:119][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:119][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:120][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:120][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:120][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:120][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:121][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:121][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:121][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:121][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:122][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:122][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:122][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:123][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:123][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:123][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:123][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:124][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:124][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:124][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:124][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:125][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:125][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:125][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:125][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:126][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:126][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:126][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:126][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:126][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:126][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:127][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:127][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:127][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:127][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:127][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:127][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:127][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:128][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:128][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:128][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:128][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:128][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:128][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:128][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:129][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:129][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:129][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:129][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:129][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:129][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:130][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:130][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:130][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:130][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:130][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:130][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:131][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:131][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:131][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:131][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:131][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:131][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:131][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:132][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:132][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:132][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:132][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:132][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:132][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:132][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:133][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:133][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:133][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:133][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:133][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:133][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:133][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:134][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:134][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:134][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:134][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:134][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:134][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:134][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:135][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:135][440]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.28.44:145][440]LogEditorActor: Deleted 103 Actors (0.050 secs)
+[2018.02.25-12.29.11:755][486]Cmd: TRANSACTION UNDO
+[2018.02.25-12.29.11:755][486]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.29.12:663][583]Cmd: TRANSACTION UNDO
+[2018.02.25-12.29.12:663][583]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.29.13:001][622]Cmd: TRANSACTION UNDO
+[2018.02.25-12.29.13:001][622]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.29.13:376][665]Cmd: TRANSACTION UNDO
+[2018.02.25-12.29.13:376][665]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.29.13:845][719]Cmd: TRANSACTION UNDO
+[2018.02.25-12.29.13:845][719]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.29.14:471][792]Cmd: TRANSACTION UNDO
+[2018.02.25-12.29.14:471][792]LogEditorTransaction: Undo Delete Actors
+[2018.02.25-12.29.17:183][100]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject8)
+[2018.02.25-12.29.22:830][696]Cmd: TRANSACTION UNDO
+[2018.02.25-12.29.22:830][696]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.29.25:188][895]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject8)
+[2018.02.25-12.29.31:217][512]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject124)
+[2018.02.25-12.29.32:218][624]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject124)
+[2018.02.25-12.29.32:913][705]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject124)
+[2018.02.25-12.29.40:777][538]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject8)
+[2018.02.25-12.29.54:149][129]Cmd: TRANSACTION UNDO
+[2018.02.25-12.29.54:149][129]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.29.59:665][732]Cmd: DELETE
+[2018.02.25-12.29.59:665][732]Cmd: ACTOR DELETE
+[2018.02.25-12.29.59:684][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:685][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:685][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:685][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:685][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:685][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:685][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:685][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:686][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:686][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:686][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:686][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:686][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:686][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:687][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:687][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:687][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:687][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:687][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:687][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:687][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:688][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:688][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:688][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:688][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:688][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:688][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:688][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:689][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:689][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:689][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:689][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:689][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:689][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:689][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:690][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:690][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:690][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:690][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:690][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:690][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:691][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:691][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:691][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:691][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:691][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:691][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:691][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:692][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:692][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:692][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:692][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:692][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:692][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:692][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:693][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:693][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:693][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:693][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:693][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:693][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:693][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:694][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:694][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:694][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:694][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:694][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:694][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:694][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:695][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:695][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:695][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:695][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:695][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:695][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:695][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:696][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:696][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:696][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:696][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:696][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:696][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:696][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:697][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:697][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:697][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:697][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:697][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:697][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:697][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:698][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:698][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:698][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:698][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:698][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:698][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:698][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:699][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:699][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:699][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:699][732]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.29.59:710][732]LogEditorActor: Deleted 101 Actors (0.045 secs)
+[2018.02.25-12.30.33:676][828]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.30.33:814][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.30.33:839][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.30.33:855][828]PIE: New page: PIE session: Level (Feb 25, 2018, 2:30:33 PM)
+[2018.02.25-12.30.33:855][828]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.30.33:882][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026595s)
+[2018.02.25-12.30.33:883][828]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.30.33:883][828]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.02.25-12.30.33:883][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.027943s)
+[2018.02.25-12.30.33:924][828]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.30.33:941][828]LogInit: FAudioDevice initialized.
+[2018.02.25-12.30.33:994][828]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode'
+[2018.02.25-12.30.33:994][828]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode'
+[2018.02.25-12.30.33:994][828]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2018.02.25-12.30.33:994][828]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.30.34:023][828]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.30.34
+[2018.02.25-12.30.34:125][828]LogWorld: Bringing up level for play took: 0.116515
+[2018.02.25-12.30.34:213][828]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.25-12.30.34:356][828]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level 1.249
+[2018.02.25-12.30.34:357][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.30.52:923][ 21]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.30.52:924][ 21]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	EnemyProjectile_BP_C /Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.EnemyProjectile_BP_C_0
+	Function /Game/BluePrints/EnemyProjectile_BP.EnemyProjectile_BP_C:RandomMaterial:00AD
+[2018.02.25-12.30.52:924][ 21]PIE: Error: Blueprint Runtime Error: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill from function: 'RandomMaterial' from node: Set Material in graph: RandomMaterial in object: EnemyProjectile_BP with description: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+[2018.02.25-12.30.52:924][ 21]LogScript: Warning: Attempted to access EnemyProjectile_BP_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but EnemyProjectile_BP_C_0 is pending kill
+	AI_Distance_Enemy_C /Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.AI_Distance_Enemy_32
+	Function /Game/AI/DistanceEnemy/AI_Distance_Enemy.AI_Distance_Enemy_C:SpawnProjectile:01C6
+[2018.02.25-12.30.52:924][ 21]PIE: Error: Blueprint Runtime Error: Attempted to access EnemyProjectile_BP_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but EnemyProjectile_BP_C_0 is pending kill from function: 'SpawnProjectile' from node: Set Direction in graph: SpawnProjectile in object: AI_Distance_Enemy with description: Attempted to access EnemyProjectile_BP_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but EnemyProjectile_BP_C_0 is pending kill
+[2018.02.25-12.30.52:924][ 21]LogScript: Warning: Attempted to assign to None
+	AI_Distance_Enemy_C /Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.AI_Distance_Enemy_32
+	Function /Game/AI/DistanceEnemy/AI_Distance_Enemy.AI_Distance_Enemy_C:SpawnProjectile:01DB
+[2018.02.25-12.30.52:925][ 21]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'SpawnProjectile' from node: Set Direction in graph: SpawnProjectile in object: AI_Distance_Enemy with description: Attempted to assign to None
+[2018.02.25-12.30.54:923][261]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.30.56:924][501]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.30.58:923][741]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.31.00:924][981]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.31.02:925][221]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.31.03:200][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.31.03:853][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.31.06:997][618]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.31.07:016][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.31.07:016][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.31.07:016][618]PIE: New page: PIE session: Level (Feb 25, 2018, 2:31:07 PM)
+[2018.02.25-12.31.07:016][618]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.31.07:031][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015077s)
+[2018.02.25-12.31.07:032][618]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.31.07:032][618]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2018.02.25-12.31.07:032][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.016305s)
+[2018.02.25-12.31.07:062][618]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.31.07:079][618]LogInit: FAudioDevice initialized.
+[2018.02.25-12.31.07:113][618]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.31.07:120][618]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.31.07
+[2018.02.25-12.31.07:122][618]LogWorld: Bringing up level for play took: 0.007584
+[2018.02.25-12.31.07:125][618]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level 0.017
+[2018.02.25-12.31.07:125][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.31.10:907][ 68]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_0.Box' 
+[2018.02.25-12.31.11:574][148]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_1.Box' 
+[2018.02.25-12.31.12:683][281]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_2.Box' 
+[2018.02.25-12.31.18:123][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_3.Box' 
+[2018.02.25-12.31.19:866][142]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_4.Box' 
+[2018.02.25-12.31.21:167][298]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_5.Box' 
+[2018.02.25-12.31.21:867][382]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_6.Box' 
+[2018.02.25-12.31.22:475][455]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_7.Box' 
+[2018.02.25-12.31.24:935][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_8.Box' 
+[2018.02.25-12.31.52:484][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.31.52:522][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.31.55:469][368]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject26)
+[2018.02.25-12.32.11:675][159]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.02.25-12.32.22:677][405]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.32.22:697][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.32.22:697][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.32.22:697][405]PIE: New page: PIE session: Level (Feb 25, 2018, 2:32:22 PM)
+[2018.02.25-12.32.22:697][405]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.32.22:712][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014793s)
+[2018.02.25-12.32.22:713][405]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.32.22:713][405]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2018.02.25-12.32.22:713][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.016089s)
+[2018.02.25-12.32.22:744][405]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.32.22:761][405]LogInit: FAudioDevice initialized.
+[2018.02.25-12.32.22:793][405]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.32.22:797][405]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.32.22
+[2018.02.25-12.32.22:799][405]LogWorld: Bringing up level for play took: 0.005635
+[2018.02.25-12.32.22:801][405]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level -0.306
+[2018.02.25-12.32.22:801][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.32.24:834][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.32.24:868][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.32.27:721][958]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject26)
+[2018.02.25-12.32.31:683][420]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.32.31:702][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.32.31:702][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.32.31:702][420]PIE: New page: PIE session: Level (Feb 25, 2018, 2:32:31 PM)
+[2018.02.25-12.32.31:702][420]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.32.31:717][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015046s)
+[2018.02.25-12.32.31:718][420]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.32.31:718][420]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2018.02.25-12.32.31:719][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.016468s)
+[2018.02.25-12.32.31:748][420]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.32.31:765][420]LogInit: FAudioDevice initialized.
+[2018.02.25-12.32.31:794][420]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.32.31:798][420]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.32.31
+[2018.02.25-12.32.31:800][420]LogWorld: Bringing up level for play took: 0.005708
+[2018.02.25-12.32.31:802][420]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level 0.695
+[2018.02.25-12.32.31:802][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.32.37:058][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.32.37:093][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.32.47:136][214]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject26)
+[2018.02.25-12.32.59:688][601]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.32.59:707][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.32.59:708][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.32.59:708][601]PIE: New page: PIE session: Level (Feb 25, 2018, 2:32:59 PM)
+[2018.02.25-12.32.59:708][601]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.32.59:722][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014335s)
+[2018.02.25-12.32.59:723][601]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.32.59:723][601]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2018.02.25-12.32.59:724][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.015767s)
+[2018.02.25-12.32.59:752][601]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.32.59:769][601]LogInit: FAudioDevice initialized.
+[2018.02.25-12.32.59:801][601]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.32.59:805][601]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.32.59
+[2018.02.25-12.32.59:807][601]LogWorld: Bringing up level for play took: 0.005915
+[2018.02.25-12.32.59:809][601]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level 0.702
+[2018.02.25-12.32.59:809][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.33.08:846][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_0.Box' 
+[2018.02.25-12.33.09:620][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_1.Box' 
+[2018.02.25-12.33.10:062][828]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_2.Box' 
+[2018.02.25-12.33.30:307][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.33.30:343][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.33.33:218][583]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.33.35:714][840]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject9)
+[2018.02.25-12.33.36:638][933]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject12)
+[2018.02.25-12.33.39:169][192]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject11)
+[2018.02.25-12.33.40:559][336]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject15)
+[2018.02.25-12.33.41:716][470]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject13)
+[2018.02.25-12.33.43:236][613]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject9)
+[2018.02.25-12.33.45:314][812]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject14)
+[2018.02.25-12.33.45:910][862]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject16)
+[2018.02.25-12.34.31:820][930]LogEditorViewport: Clicking on Actor (LMB): AI_Distance_Enemy_C (AI_Distance_Enemy)
+[2018.02.25-12.34.49:617][952]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.34.49:636][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.34.49:636][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.34.49:637][952]PIE: New page: PIE session: Level (Feb 25, 2018, 2:34:49 PM)
+[2018.02.25-12.34.49:637][952]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.34.49:653][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016251s)
+[2018.02.25-12.34.49:654][952]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.34.49:654][952]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2018.02.25-12.34.49:655][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.017782s)
+[2018.02.25-12.34.49:690][952]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.34.49:709][952]LogInit: FAudioDevice initialized.
+[2018.02.25-12.34.49:744][952]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.34.49:748][952]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.34.49
+[2018.02.25-12.34.49:750][952]LogWorld: Bringing up level for play took: 0.005508
+[2018.02.25-12.34.49:752][952]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level 0.645
+[2018.02.25-12.34.49:752][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.34.59:830][157]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_0.Box' 
+[2018.02.25-12.35.00:690][260]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_1.Box' 
+[2018.02.25-12.35.01:390][344]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_2.Box' 
+[2018.02.25-12.35.42:075][224]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.35.42:112][224]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.35.51:853][385]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.35.55:653][787]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject9)
+[2018.02.25-12.35.56:352][849]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject12)
+[2018.02.25-12.35.57:436][975]Cmd: TRANSACTION UNDO
+[2018.02.25-12.35.57:436][975]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.36.05:851][976]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject12)
+[2018.02.25-12.36.07:329][119]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.36.22:828][831]Cmd: TRANSACTION UNDO
+[2018.02.25-12.36.22:828][831]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.39.09:983][894]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2018.02.25-12.39.13:939][345]Cmd: TRANSACTION UNDO
+[2018.02.25-12.39.13:939][345]LogEditorTransaction: Undo Scale Components
+[2018.02.25-12.39.28:781][ 27]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.39.28:791][ 27]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.02.25-12.39.32:303][442]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.39.32:303][442]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.39.32:304][442]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.39.32:304][442]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.39.32:304][442]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.39.32:304][442]LogEditorActor: Deleted Actor: MoveableObject_C
+[2018.02.25-12.39.32:313][442]LogEditorActor: Deleted 6 Actors (0.014 secs)
+[2018.02.25-12.39.33:768][615]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.39.34:301][674]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.02.25-12.39.37:474][955]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.40.11:884][699]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.40.12:379][740]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject11)
+[2018.02.25-12.40.12:959][806]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject12)
+[2018.02.25-12.40.14:647][  1]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject13)
+[2018.02.25-12.40.25:603][221]Cmd: TRANSACTION UNDO
+[2018.02.25-12.40.25:604][221]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.40.30:642][732]Cmd: TRANSACTION UNDO
+[2018.02.25-12.40.30:642][732]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.02:993][329]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.41.03:013][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.41.03:013][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.41.03:013][329]PIE: New page: PIE session: Level (Feb 25, 2018, 2:41:03 PM)
+[2018.02.25-12.41.03:014][329]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.41.03:029][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015741s)
+[2018.02.25-12.41.03:030][329]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.41.03:031][329]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2018.02.25-12.41.03:031][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.017256s)
+[2018.02.25-12.41.03:070][329]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.41.03:090][329]LogInit: FAudioDevice initialized.
+[2018.02.25-12.41.03:122][329]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.41.03:126][329]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.41.03
+[2018.02.25-12.41.03:128][329]LogWorld: Bringing up level for play took: 0.006077
+[2018.02.25-12.41.03:130][329]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level 0.023
+[2018.02.25-12.41.03:130][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.41.07:707][875]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.41.09:709][115]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.41.11:709][355]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.41.11:709][355]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Materials' of length 18 in '/Game/BluePrints/EnemyProjectile_BP.EnemyProjectile_BP_C'!
+[2018.02.25-12.41.14:026][633]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.41.14:402][678]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_0.Box' 
+[2018.02.25-12.41.14:993][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_1.Box' 
+[2018.02.25-12.41.16:026][873]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.41.17:044][995]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_2.Box' 
+[2018.02.25-12.41.18:033][113]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.41.18:041][114]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_3.Box' 
+[2018.02.25-12.41.19:142][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_4.Box' 
+[2018.02.25-12.41.20:033][353]LogBlueprintUserMessages: [AI_Distance_Enemy_32] Hello
+[2018.02.25-12.41.20:984][467]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_5.Box' 
+[2018.02.25-12.41.37:852][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.41.37:884][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.41.41:253][885]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.41:253][885]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.41:591][906]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.41:591][906]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.41:852][926]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.41:852][926]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.42:077][952]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.42:077][952]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.42:269][974]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.42:269][974]LogEditorTransaction: Undo Rotate Actors
+[2018.02.25-12.41.42:502][997]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.42:502][997]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.42:786][ 28]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.42:786][ 28]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.43:037][ 56]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.43:037][ 56]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.43:289][ 84]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.43:289][ 84]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.43:523][110]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.43:523][110]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.43:776][138]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.43:776][138]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.44:024][166]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.44:024][166]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.44:254][191]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.44:254][191]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.44:472][216]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.44:472][216]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.44:668][237]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.44:668][237]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.41.44:866][258]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.44:866][258]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.45:326][307]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.45:326][307]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.02.25-12.41.45:657][343]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.45:657][343]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.46:034][387]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.46:034][387]LogEditorTransaction: Undo Delete selection
+[2018.02.25-12.41.46:380][425]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.46:380][425]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.46:749][466]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.46:749][466]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.47:037][500]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.47:037][500]LogEditorTransaction: Undo Delete selection
+[2018.02.25-12.41.47:306][529]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.47:306][529]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.47:592][558]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.47:592][558]LogEditorTransaction: Undo Scale Components
+[2018.02.25-12.41.47:890][589]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.47:890][589]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2018.02.25-12.41.48:099][608]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.48:099][608]LogEditorTransaction: Undo Clicking on Components
+[2018.02.25-12.41.48:272][622]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.48:272][622]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.48:482][641]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.48:482][641]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.48:705][663]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.48:705][663]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.48:945][687]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.48:945][687]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.49:178][711]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.49:178][711]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.49:487][743]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.49:487][743]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.49:695][764]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.49:695][764]LogEditorTransaction: Undo Set Location
+[2018.02.25-12.41.49:887][782]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.49:887][782]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.50:053][797]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.50:053][797]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.50:228][814]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.50:228][814]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.50:428][834]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.50:428][834]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.50:827][877]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.50:827][877]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.51:228][921]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.51:228][921]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.51:870][994]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.51:870][994]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.52:964][120]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.52:964][120]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.53:455][174]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.53:455][174]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.53:970][231]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.53:970][231]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.54:373][274]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.54:373][274]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.54:812][321]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.54:812][321]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.55:179][359]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.55:179][359]LogEditorTransaction: Undo Set Scale
+[2018.02.25-12.41.55:540][398]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.55:540][398]LogEditorTransaction: Undo Set Location
+[2018.02.25-12.41.55:841][429]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.55:841][429]LogEditorTransaction: Undo Move Components
+[2018.02.25-12.41.56:172][464]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.56:172][464]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2018.02.25-12.41.56:535][503]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.56:535][503]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2018.02.25-12.41.57:193][578]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.57:193][578]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2018.02.25-12.41.57:723][639]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.57:723][639]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.58:568][737]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.58:568][737]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.59:138][803]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.59:138][803]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.41.59:756][875]Cmd: TRANSACTION UNDO
+[2018.02.25-12.41.59:756][875]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.42.00:315][939]Cmd: TRANSACTION UNDO
+[2018.02.25-12.42.00:315][939]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.25-12.42.00:856][  3]Cmd: TRANSACTION UNDO
+[2018.02.25-12.42.00:856][  3]LogEditorTransaction: Undo Rotate Actors
+[2018.02.25-12.42.10:362][126]LogActorFactory: Actor Factory created Ceiling_Lamp
+[2018.02.25-12.42.12:617][395]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject16)
+[2018.02.25-12.42.18:976][109]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject7)
+[2018.02.25-12.42.23:300][602]Cmd: TRANSACTION UNDO
+[2018.02.25-12.42.23:300][602]LogEditorTransaction: Undo Move Actors
+[2018.02.25-12.42.24:294][713]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject26)
+[2018.02.25-12.43.09:549][871]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2018.02.25-12.44.25:438][773]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.44.25:457][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.44.25:457][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.44.25:457][773]PIE: New page: PIE session: Level (Feb 25, 2018, 2:44:25 PM)
+[2018.02.25-12.44.25:457][773]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.44.25:472][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015314s)
+[2018.02.25-12.44.25:473][773]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.44.25:473][773]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2018.02.25-12.44.25:474][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.016842s)
+[2018.02.25-12.44.25:510][773]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.44.25:529][773]LogInit: FAudioDevice initialized.
+[2018.02.25-12.44.25:562][773]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.44.25:567][773]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.44.25
+[2018.02.25-12.44.25:569][773]LogWorld: Bringing up level for play took: 0.006208
+[2018.02.25-12.44.25:571][773]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level 0.463
+[2018.02.25-12.44.25:571][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.44.31:391][468]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_0.Box' 
+[2018.02.25-12.44.32:083][551]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_1.Box' 
+[2018.02.25-12.44.32:633][617]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_2.Box' 
+[2018.02.25-12.44.33:208][686]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_3.Box' 
+[2018.02.25-12.44.46:484][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.44.46:514][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.44.49:389][620]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.44.49:408][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.44.49:408][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.44.49:409][620]PIE: New page: PIE session: Level (Feb 25, 2018, 2:44:49 PM)
+[2018.02.25-12.44.49:409][620]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.44.49:422][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012972s)
+[2018.02.25-12.44.49:422][620]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.44.49:423][620]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.02.25-12.44.49:423][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.014123s)
+[2018.02.25-12.44.49:450][620]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.44.49:468][620]LogInit: FAudioDevice initialized.
+[2018.02.25-12.44.49:498][620]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.44.49:502][620]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.44.49
+[2018.02.25-12.44.49:505][620]LogWorld: Bringing up level for play took: 0.005709
+[2018.02.25-12.44.49:506][620]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level 0.399
+[2018.02.25-12.44.49:506][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.44.53:790][130]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_0.Box' 
+[2018.02.25-12.44.54:431][207]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_1.Box' 
+[2018.02.25-12.44.55:073][284]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_2.Box' 
+[2018.02.25-12.44.55:839][376]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_3.Box' 
+[2018.02.25-12.44.56:265][427]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_4.Box' 
+[2018.02.25-12.44.57:040][520]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_5.Box' 
+[2018.02.25-12.45.17:364][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.45.17:397][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.45.20:090][257]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject27)
+[2018.02.25-12.46.34:898][594]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.46.34:917][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.46.34:917][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.46.34:918][594]PIE: New page: PIE session: Level (Feb 25, 2018, 2:46:34 PM)
+[2018.02.25-12.46.34:918][594]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.46.34:932][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014106s)
+[2018.02.25-12.46.34:933][594]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.46.34:933][594]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2018.02.25-12.46.34:933][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.015265s)
+[2018.02.25-12.46.34:966][594]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.46.34:985][594]LogInit: FAudioDevice initialized.
+[2018.02.25-12.46.35:016][594]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.46.35:020][594]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.46.35
+[2018.02.25-12.46.35:023][594]LogWorld: Bringing up level for play took: 0.005861
+[2018.02.25-12.46.35:024][594]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level -0.083
+[2018.02.25-12.46.35:025][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.46.39:008][ 68]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_0.Box' 
+[2018.02.25-12.46.39:724][154]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_1.Box' 
+[2018.02.25-12.46.40:166][207]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_2.Box' 
+[2018.02.25-12.47.00:512][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.47.00:544][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.47.01:829][799]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject27)
+[2018.02.25-12.47.13:880][183]Cmd: TRANSACTION UNDO
+[2018.02.25-12.47.13:880][183]LogEditorTransaction: Undo Scale Actors
+[2018.02.25-12.48.00:554][312]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.48.00:573][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.00:573][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.48.00:574][312]PIE: New page: PIE session: Level (Feb 25, 2018, 2:48:00 PM)
+[2018.02.25-12.48.00:574][312]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.48.00:588][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013894s)
+[2018.02.25-12.48.00:588][312]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.48.00:589][312]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.02.25-12.48.00:589][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.015273s)
+[2018.02.25-12.48.00:624][312]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.48.00:642][312]LogInit: FAudioDevice initialized.
+[2018.02.25-12.48.00:674][312]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.48.00:678][312]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.48.00
+[2018.02.25-12.48.00:680][312]LogWorld: Bringing up level for play took: 0.005911
+[2018.02.25-12.48.00:682][312]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level -0.425
+[2018.02.25-12.48.00:682][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.04:585][777]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_0.Box' 
+[2018.02.25-12.48.05:318][865]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_1.Box' 
+[2018.02.25-12.48.05:910][936]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_2.Box' 
+[2018.02.25-12.48.06:311][984]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/UEDPIE_0_Level.Level:PersistentLevel.CardProjectile_C_3.Box' 
+[2018.02.25-12.48.29:897][813]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.29:932][813]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.33:118][171]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.48.34:722][318]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject9)
+[2018.02.25-12.48.37:437][585]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.48.38:383][694]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.48.38:402][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.38:402][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.48.38:402][694]PIE: New page: PIE session: Level (Feb 25, 2018, 2:48:38 PM)
+[2018.02.25-12.48.38:402][694]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.48.38:415][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012715s)
+[2018.02.25-12.48.38:416][694]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.48.38:416][694]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2018.02.25-12.48.38:416][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.013772s)
+[2018.02.25-12.48.38:447][694]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.48.38:464][694]LogInit: FAudioDevice initialized.
+[2018.02.25-12.48.38:494][694]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.48.38:498][694]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.48.38
+[2018.02.25-12.48.38:501][694]LogWorld: Bringing up level for play took: 0.005646
+[2018.02.25-12.48.38:502][694]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level -0.605
+[2018.02.25-12.48.38:502][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.41:204][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.41:239][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.43:529][269]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.48.44:095][317]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2018.02.25-12.48.45:230][448]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject9)
+[2018.02.25-12.48.45:814][513]LogEditorViewport: Clicking on Actor (CTRL LMB): MoveableObject_C (MoveableObject10)
+[2018.02.25-12.48.52:691][290]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-12.48.52:710][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.52:710][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-12.48.52:710][290]PIE: New page: PIE session: Level (Feb 25, 2018, 2:48:52 PM)
+[2018.02.25-12.48.52:710][290]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2018.02.25-12.48.52:723][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012875s)
+[2018.02.25-12.48.52:724][290]LogAIModule: Creating AISystem for world Level
+[2018.02.25-12.48.52:724][290]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2018.02.25-12.48.52:724][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.014421s)
+[2018.02.25-12.48.52:758][290]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-12.48.52:774][290]LogInit: FAudioDevice initialized.
+[2018.02.25-12.48.52:803][290]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-12.48.52:808][290]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2018.02.25-13.48.52
+[2018.02.25-12.48.52:810][290]LogWorld: Bringing up level for play took: 0.005783
+[2018.02.25-12.48.52:811][290]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Level -0.296
+[2018.02.25-12.48.52:812][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.55:364][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.55:396][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Scenes/Level.Level_C' with ClassGeneratedBy '/Game/Scenes/Level.Level:PersistentLevel.Level'
+[2018.02.25-12.48.58:611][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.25-12.48.58:810][792]LogSavePackage: Save=169.63ms
+[2018.02.25-12.48.58:810][792]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Level60EFE1CF41A3C0371BC7B6B3BC59E1F4.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap'
+[2018.02.25-12.48.58:814][792]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap
+[2018.02.25-12.48.58:847][792]LogFileHelpers: Saving map 'Level' took 0.337
+[2018.02.25-12.49.16:069][791]LogEditorViewport: Clicking on Actor (LMB): MoveableObject_C (MoveableObject7)
+[2018.02.25-12.49.32:144][593]LogStaticMesh: Building static mesh Escala_SiBarana...
+[2018.02.25-12.49.32:161][593]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Level_1/Escales/Escala_SiBarana.Escala_SiBarana
+[2018.02.25-12.52.50:028][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.25-12.52.50:226][390]LogSavePackage: Save=174.40ms
+[2018.02.25-12.52.50:226][390]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/LevelE6DAB51841E9F109EA35FB84C58D2507.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap'
+[2018.02.25-12.52.50:238][390]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level.umap
+[2018.02.25-12.52.50:280][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level_BuiltData" FILE="C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level_BuiltData.uasset" SILENT=true
+[2018.02.25-12.52.50:566][390]LogSavePackage: Save=273.22ms
+[2018.02.25-12.52.50:566][390]LogSavePackage: Moving 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Level_BuiltData54B8A28E47C653FDF3AB83BF2BF34337.tmp' to 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level_BuiltData.uasset'
+[2018.02.25-12.52.50:568][390]LogSavePackage: Display: Finished SavePackage C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Scenes/Level_BuiltData.uasset
+[2018.02.25-12.52.52:920][557]Cmd: QUIT_EDITOR
+[2018.02.25-12.52.53:964][557]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-12.52.53:984][557]LogExit: Preparing to exit.
+[2018.02.25-12.52.55:195][557]LogExit: Editor shut down
+[2018.02.25-12.52.55:198][557]LogExit: Transaction tracking system shut down
+[2018.02.25-12.52.55:394][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.25-12.52.55:394][557]LogDirectoryWatcher: A directory notification for 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/' was aborted.
+[2018.02.25-12.52.55:394][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.25-12.52.55:394][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.25-12.52.55:394][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.25-12.52.55:394][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.25-12.52.55:394][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.25-12.52.55:888][557]LogExit: Object subsystem successfully closed.
+[2018.02.25-12.52.55:944][557]LogD3D11RHI: Shutdown
+[2018.02.25-12.52.55:944][557]LogD3D11RHI: CleanupD3DDevice
+[2018.02.25-12.52.55:947][557]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.25-12.52.56:247][557]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.02.25-12.52.56:247][557]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (552)
+[2018.02.25-12.52.56:247][557]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (550)
+[2018.02.25-12.52.56:247][557]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.02.25-12.52.56:247][557]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.25-12.52.56:247][557]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.25-12.52.56:258][557]LogDirectoryWatcher: A directory notification for 'F:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.25-12.52.56:258][557]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.25-12.52.56:258][557]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.25-12.52.56:258][557]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.25-12.52.56:258][557]LogDirectoryWatcher: A directory notification for 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Collections/' was aborted.
+[2018.02.25-12.52.56:258][557]LogDirectoryWatcher: A directory notification for 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Content/Developers/Marc/Collections/' was aborted.
+[2018.02.25-12.52.56:258][557]LogDirectoryWatcher: A directory notification for 'C:/Users/Marc/Documents/CasinoRoyale/SideScroller/Saved/Collections/' was aborted.
+[2018.02.25-12.52.56:259][557]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.25-12.52.56:259][557]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.25-12.52.56:259][557]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.25-12.52.56:271][557]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.25-12.52.56:281][557]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.25-12.52.56:297][557]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.25-12.52.56:340][557]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.25-12.52.56:341][557]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.25-12.52.56:341][557]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.25-12.52.56:374][557]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.25-12.52.56:374][557]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.25-12.52.56:374][557]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.25-12.52.56:374][557]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.25-12.52.56:602][557]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.25-12.52.56:602][557]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.25-12.52.56:602][557]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.25-12.52.56:602][557]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.25-12.52.56:602][557]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.25-12.52.56:634][557]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.25-12.52.56:634][557]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.25-12.52.56:634][557]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.25-12.52.56:634][557]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.25-12.52.56:658][557]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.25-12.52.56:675][557]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.25-12.52.56:687][557]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.25-12.52.56:687][557]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.25-12.52.56:698][557]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.25-12.52.56:698][557]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.25-12.52.56:765][557]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.25-12.52.56:785][557]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.25-12.52.56:812][557]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.25-12.52.56:839][557]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.25-12.52.56:839][557]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.25-12.52.56:839][557]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.25-12.52.56:839][557]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.25-12.52.56:875][557]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.25-12.52.56:875][557]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.25-12.52.56:876][557]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.25-12.52.56:876][557]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.25-12.52.56:876][557]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.25-12.52.56:876][557]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.25-12.52.56:892][557]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.25-12.52.56:909][557]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.25-12.52.56:909][557]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.25-12.52.56:921][557]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.25-12.52.56:921][557]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.25-12.52.56:941][557]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.25-12.52.56:942][557]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.25-12.52.57:133][557]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.25-12.52.57:150][557]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.25-12.52.57:150][557]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.25-12.52.57:150][557]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.25-12.52.57:150][557]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.25-12.52.57:151][557]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.25-12.52.57:151][557]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.25-12.52.57:151][557]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.25-12.52.57:151][557]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.25-12.52.57:151][557]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.25-12.52.57:163][557]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.25-12.52.57:179][557]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.25-12.52.57:179][557]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.25-12.52.57:179][557]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.25-12.52.57:179][557]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.25-12.52.57:179][557]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.25-12.52.57:190][557]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.25-12.52.57:190][557]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.25-12.52.57:190][557]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.25-12.52.57:190][557]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.25-12.52.57:190][557]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.25-12.52.57:190][557]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.25-12.52.57:212][557]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.25-12.52.57:212][557]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.25-12.52.57:213][557]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.25-12.52.57:213][557]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.25-12.52.57:213][557]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.25-12.52.57:214][557]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.25-12.52.57:214][557]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.25-12.52.57:214][557]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.25-12.52.57:214][557]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.25-12.52.57:214][557]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.25-12.52.57:214][557]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.25-12.52.57:214][557]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.25-12.52.57:214][557]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.25-12.52.57:315][557]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.25-12.52.57:416][557]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.25-12.52.57:416][557]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.25-12.52.57:416][557]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.25-12.52.57:416][557]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.25-12.52.57:416][557]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.25-12.52.57:435][557]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.25-12.52.57:436][557]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.25-12.52.57:436][557]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.25-12.52.57:436][557]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.25-12.52.57:436][557]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.25-12.52.57:452][557]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.25-12.52.57:452][557]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.25-12.52.57:452][557]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.25-12.52.57:452][557]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.25-12.52.57:452][557]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.25-12.52.57:452][557]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.25-12.52.57:457][557]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.25-12.52.57:457][557]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.25-12.52.57:457][557]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.25-12.52.57:465][557]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.25-12.52.57:465][557]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.25-12.52.57:465][557]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.25-12.52.57:477][557]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.25-12.52.57:478][557]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.25-12.52.57:478][557]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.25-12.52.57:478][557]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.25-12.52.57:478][557]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.25-12.52.57:490][557]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.25-12.52.57:501][557]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.25-12.52.57:502][557]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.25-12.52.57:511][557]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.25-12.52.57:511][557]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.25-12.52.57:512][557]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.25-12.52.57:512][557]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.25-12.52.57:512][557]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.25-12.52.57:512][557]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.25-12.52.57:512][557]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.25-12.52.57:513][557]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.25-12.52.57:513][557]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.25-12.52.57:513][557]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.25-12.52.57:514][557]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.25-12.52.57:514][557]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.25-12.52.57:514][557]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.25-12.52.57:514][557]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.25-12.52.57:514][557]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.25-12.52.57:526][557]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.25-12.52.57:526][557]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.25-12.52.57:526][557]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.25-12.52.57:526][557]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.25-12.52.57:625][557]LogDerivedDataCache: Shutdown
+[2018.02.25-12.52.57:625][557]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.25-12.52.57:625][557]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.25-12.52.57:625][557]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.25-12.52.57:636][557]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.25-12.52.57:644][557]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.25-12.52.57:644][557]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.25-12.52.57:654][557]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.25-12.52.57:655][557]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.25-12.52.57:655][557]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.25-12.52.57:655][557]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.25-12.52.57:655][557]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.25-12.52.57:655][557]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.25-12.52.57:655][557]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.25-12.52.57:655][557]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.25-12.52.57:655][557]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.25-12.52.57:666][557]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.25-12.52.57:684][557]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.25-12.52.57:684][557]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.25-12.52.57:684][557]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58EEE984-4A7D-A2AA-93FB-9FA91810815E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=2a71fb6142b65416319bb5a0bcb6f7fc%7C1fef5c4a3a8d4210819e1950e94c4b71%7C673b4b57-fe11-40d8-9748-4a332ffb3a36&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.25-12.52.57:702][557]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.25-12.52.57:703][557]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.25-12.52.57:703][557]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.25-12.52.57:703][557]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.25-12.52.57:713][557]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.25-12.52.57:713][557]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.25-12.52.57:713][557]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.25-12.52.57:713][557]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.25-12.52.57:719][557]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.25-12.52.57:733][557]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.25-12.52.57:737][557]LogExit: Exiting.
+[2018.02.25-12.52.57:756][557]Log file closed, 02/25/18 13:52:57
