@@ -15,4 +15,4 @@ Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2018-02-21T19:55:36.47
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2018-02-21T19:55:41.127Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2018-02-21T19:55:41.128Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_10/Win64/openvr_api.dll	2018-02-21T19:55:36.518Z
-SideScroller.exe	2018-02-27T22:16:02.362Z
+SideScroller.exe	2018-02-27T22:41:19.032Z
