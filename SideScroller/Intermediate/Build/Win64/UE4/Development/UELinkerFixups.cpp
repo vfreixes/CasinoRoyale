@@ -149,8 +149,8 @@
 #ifndef PROFILERSERVICE_API
 	#define PROFILERSERVICE_API 
 #endif
-#ifndef GAMEANALYTICS_API
-	#define GAMEANALYTICS_API 
+#ifndef ANALYTICSBLUEPRINTLIBRARY_API
+	#define ANALYTICSBLUEPRINTLIBRARY_API 
 #endif
 #ifndef COREUOBJECT_API
 	#define COREUOBJECT_API 
@@ -283,9 +283,6 @@
 #endif
 #ifndef ANALYTICS_API
 	#define ANALYTICS_API 
-#endif
-#ifndef ANALYTICSBLUEPRINTLIBRARY_API
-	#define ANALYTICSBLUEPRINTLIBRARY_API 
 #endif
 #ifndef PAPER2D_API
 	#define PAPER2D_API 
@@ -3449,10 +3446,6 @@ void UELinkerFixups()
     EmptyLinkFunctionForGeneratedCodeSessionMessages_init();
     extern void EmptyLinkFunctionForGeneratedCodeSessionServiceMessages();
     EmptyLinkFunctionForGeneratedCodeSessionServiceMessages();
-    extern void EmptyLinkFunctionForGeneratedCodeGameAnalytics();
-    EmptyLinkFunctionForGeneratedCodeGameAnalytics();
-    extern void EmptyLinkFunctionForGeneratedCodeGameAnalytics_init();
-    EmptyLinkFunctionForGeneratedCodeGameAnalytics_init();
     extern void EmptyLinkFunctionForGeneratedCodeAnalyticsBlueprintLibrary();
     EmptyLinkFunctionForGeneratedCodeAnalyticsBlueprintLibrary();
     extern void EmptyLinkFunctionForGeneratedCodeAnalyticsBlueprintLibrary_init();
@@ -4391,8 +4384,6 @@ void UELinkerFixups()
     EmptyLinkFunctionForGeneratedCodeIAutomationReport();
     extern void EmptyLinkFunctionForStaticInitializationLaunch();
     EmptyLinkFunctionForStaticInitializationLaunch();
-    extern void EmptyLinkFunctionForStaticInitializationGameAnalytics();
-    EmptyLinkFunctionForStaticInitializationGameAnalytics();
     extern void EmptyLinkFunctionForStaticInitializationAnalyticsBlueprintLibrary();
     EmptyLinkFunctionForStaticInitializationAnalyticsBlueprintLibrary();
     extern void EmptyLinkFunctionForStaticInitializationPaper2D();
