@@ -24,11 +24,6 @@
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/GameAnalytics/Binaries/Win64/UE4-GameAnalytics.lib",
-			"Type": "StaticLibrary",
-			"IsPrecompiled": true
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/Binaries/Win64/UE4-AnalyticsBlueprintLibrary.lib",
 			"Type": "StaticLibrary",
 			"IsPrecompiled": true
@@ -742,10 +737,6 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/SideScroller.uproject",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/GameAnalytics/GameAnalytics.uplugin",
 			"Type": "UFS"
 		},
 		{
