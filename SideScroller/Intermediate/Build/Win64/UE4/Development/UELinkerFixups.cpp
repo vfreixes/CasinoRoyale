@@ -96,7 +96,7 @@
 	#define PROJECT_COPYRIGHT_STRING Fill out your copyright notice in the Description page of Project Settings.
 #endif
 #ifndef PROJECT_PRODUCT_NAME
-	#define PROJECT_PRODUCT_NAME Side Scroller BP Game Template
+	#define PROJECT_PRODUCT_NAME Project Croupier
 #endif
 #ifndef PROJECT_PRODUCT_IDENTIFIER
 	#define PROJECT_PRODUCT_IDENTIFIER SideScroller
