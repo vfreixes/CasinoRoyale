@@ -13,5 +13,8 @@
 			"Name": "AnalyticsBlueprintLibrary",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
