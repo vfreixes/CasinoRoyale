@@ -21,13 +21,13 @@
 /wd4463
 /wd4838
 /w44668
-/I "F:\Program Files\Epic Games\UE_4.18\Engine\Source"
+/I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
 /D_HAS_EXCEPTIONS=0
-/FI"C:\Users\Marc\Documents\CasinoRoyale\SideScroller\Intermediate\Build\Win64\SideScroller\Development\UELinkerFixups\PCH.UELinkerFixups.h"
-/Yu"C:\Users\Marc\Documents\CasinoRoyale\SideScroller\Intermediate\Build\Win64\SideScroller\Development\UELinkerFixups\PCH.UELinkerFixups.h"
-/Fp"C:\Users\Marc\Documents\CasinoRoyale\SideScroller\Intermediate\Build\Win64\SideScroller\Development\UELinkerFixups\PCH.UELinkerFixups.h.pch"
-"C:\Users\Marc\Documents\CasinoRoyale\SideScroller\Intermediate\Build\Win64\UE4\Development\UELinkerFixups.cpp"
-/Fo"C:\Users\Marc\Documents\CasinoRoyale\SideScroller\Intermediate\Build\Win64\SideScroller\Development\UELinkerFixups\UELinkerFixups.cpp.obj"
+/FI"C:\Users\-\Desktop\Projecte3\SideScroller\Intermediate\Build\Win64\SideScroller\Development\UELinkerFixups\PCH.UELinkerFixups.h"
+/Yu"C:\Users\-\Desktop\Projecte3\SideScroller\Intermediate\Build\Win64\SideScroller\Development\UELinkerFixups\PCH.UELinkerFixups.h"
+/Fp"C:\Users\-\Desktop\Projecte3\SideScroller\Intermediate\Build\Win64\SideScroller\Development\UELinkerFixups\PCH.UELinkerFixups.h.pch"
+"C:\Users\-\Desktop\Projecte3\SideScroller\Intermediate\Build\Win64\UE4\Development\UELinkerFixups.cpp"
+/Fo"C:\Users\-\Desktop\Projecte3\SideScroller\Intermediate\Build\Win64\SideScroller\Development\UELinkerFixups\UELinkerFixups.cpp.obj"
 /TP
 /GR-
 /W4
